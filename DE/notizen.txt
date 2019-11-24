@@ -1,0 +1,13 @@
+dir = Verzeichnis Inhalt anzeigen
+cd = Verzeichnis wechseln
+cd .. = raus aus Verzeichnis
+mkdir = Verzeichnis anlegen
+explorer . = aktuelles Verzeichnis im Explorer öffnen
+
+git clone = kopieren des repo.
+git status
+git log 
+git add
+git commit -m "mein kommentar"
+git push
+
