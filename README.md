@@ -26,6 +26,10 @@ The format how data can be transfered:
 
 - [XML and JSON](https://www.youtube.com/watch?v=rqROpUNb2aY)
 
+SQL Database
+
+-Install [Postgres](https://www.postgresql.org/) and [learn](http://www.postgresqltutorial.com/) how to use it!
+
 ## Tools
 ### Tools which makes everything easier (and possible)
 First things first
@@ -39,6 +43,9 @@ Wikipedia on IDE: An integrated development environment (IDE) is a software appl
 
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - [Intellij](https://www.jetbrains.com/idea/download/#section=windows)
+
+#### Build Tools
+- [Maven](https://maven.apache.org/), a build tool for Java (or even PHP and other languages, if you know how to use it)
 
 #### Other Tools
 - [Insomnia Rest Client](https://insomnia.rest/download/)
@@ -65,3 +72,6 @@ Your desktop computer (PC, Mac) or Notebook is a good working device? But you ca
 
 ## Logic Simulation
 - [Circuit Verse](https://circuitverse.org/users/7315/projects/20305)
+
+## Advanced stuff
+- [Docker](https://www.docker.com/)
