@@ -8,6 +8,24 @@
 - What is [RAM](https://en.wikipedia.org/wiki/Random-access_memory)
 - What is a [Hello World](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) program?
 
+### Programming Languages
+Different programming languages have their pros and cons. Just learn the basics of 3 to 5 different languages will help you to cope better with the syntax and typical flow of programming.
+
+- [Python Basics](https://realpython.com/python-basics/)
+- [Java Basics](https://www.codecademy.com/learn/learn-java/modules/learn-java-hello-world)
+- [PHP](https://www.tutorialspoint.com/php/php_introduction.htm)
+
+### Data Storage and Transfer
+Wikipedia on [communication protocols](https://en.wikipedia.org/wiki/Communication_protocol): In telecommunication, a communication protocol is a system of rules that allow two or more entities of a communications system to transmit information via any kind of variation of a physical quantity.
+
+- What is [TCP/IP](https://www.youtube.com/watch?v=PpsEaqJV_A0)?
+- What is [HTTP](https://www.youtube.com/watch?v=eesqK59rhGA)?
+- What is a [Web-Server](https://www.youtube.com/watch?v=JhpUch6lWMw)?
+
+The format how data can be transfered:
+
+- [XML and JSON](https://www.youtube.com/watch?v=rqROpUNb2aY)
+
 ## Tools
 ### Tools which makes everything easier (and possible)
 First things first
