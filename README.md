@@ -36,3 +36,6 @@ Your desktop computer (PC, Mac) or Notebook is a good working device? But you ca
 
 - [Raspberry Pi](https://www.raspberrypi.org/)
 - [Arduino](https://www.arduino.cc/)
+
+## Logic Simulation
+- [Circuit Verse](https://circuitverse.org/users/7315/projects/20305)
