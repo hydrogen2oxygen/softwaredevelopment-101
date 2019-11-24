@@ -1,6 +1,14 @@
 # Software-Development-101
 ## Learning the essentials of software development
+- What is [information](https://en.wikipedia.org/wiki/Information)?
+- What is the [smallest unit](https://en.wikipedia.org/wiki/Bit) of information?
+- What is a [byte](https://en.wikipedia.org/wiki/Byte)?
+- What is [software](https://en.wikipedia.org/wiki/Software)?
+- What is a [CPU](https://en.wikipedia.org/wiki/Central_processing_unit)?
+- What is [RAM](https://en.wikipedia.org/wiki/Random-access_memory)
+- What is a [Hello World](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) program?
 
+## Tools
 ### Tools which makes everything easier (and possible)
 First things first
 - [ConEmu replacing CMD on Windows](https://conemu.github.io/)
