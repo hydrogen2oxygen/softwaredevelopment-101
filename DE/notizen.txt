@@ -11,3 +11,6 @@ git add
 git commit -m "mein kommentar"
 git push
 
+=== Hausaufgaben ===
+[ ] Versuche diese Änderung in dein Repository zu integrieren: [Syncing a fork](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork)
+[ ] Ändere die Datei-Endung dieser Datei in *.md um, dann ist es eine [MarkDown-Datei](https://en.wikipedia.org/wiki/Markdown)
