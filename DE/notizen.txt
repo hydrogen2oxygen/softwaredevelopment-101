@@ -1,0 +1,5 @@
+dir = Verzeichnis Inhalt anzeigen
+cd = Verzeichnis wechseln
+cd .. = raus aus Verzeichnis
+mkdir = Verzeichnis anlegen
+explorer . = aktuelles Verzeichnis im Explorer öffnen
