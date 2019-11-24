@@ -33,8 +33,9 @@ SQL Database
 ## Tools
 ### Tools which makes everything easier (and possible)
 First things first
-- [ConEmu replacing CMD on Windows](https://conemu.github.io/)
-- [Git](https://git-scm.com/downloads)
+- [Notepad++](https://notepad-plus-plus.org/downloads/), because Windows don't know what a real notepad should be like
+- [ConEmu replacing CMD on Windows](https://conemu.github.io/), because Windows CMD shell is the worst on our planet
+- [Git](https://git-scm.com/downloads), because we want to develop for open source
 
 See also [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf).
 
