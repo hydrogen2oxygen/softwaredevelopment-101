@@ -59,6 +59,9 @@ A SDK is a Software Development Kit, which is usually provided for most programm
 - [PHP](https://www.apachefriends.org/download.html)
 
 # More to learn
+
+Take also a look at the [video tutorial](VIDEO-TUTORIALS.md).
+
 ## The Basics of Operating Systems
 It may sound stupid, but many people lacks the basics of Windows. It seems to be an intuitively designed software, but it is and remains a very complex piece of software. Therefore, in order to facilitate the daily work as a software developer, please PLEASE learn the basics of at least Windows, or even better of other systems like Linux.
 
