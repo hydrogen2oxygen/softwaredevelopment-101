@@ -6,7 +6,30 @@
 - What is [software](https://en.wikipedia.org/wiki/Software)?
 - What is a [CPU](https://en.wikipedia.org/wiki/Central_processing_unit)?
 - What is [RAM](https://en.wikipedia.org/wiki/Random-access_memory)
+- What is a [Operating System](https://en.wikipedia.org/wiki/Operating_system)?
 - What is a [Hello World](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) program?
+- What is a [variable](https://www.geeksforgeeks.org/variables-in-java/)?
+- What is a [function](https://www.learnjavaonline.org/en/Functions)?
+- What is a [condition](https://www.learnjavaonline.org/en/Conditionals)?
+- What is a [loop](https://www.learnjavaonline.org/en/Loops)?
+- What is a [object](https://www.learnjavaonline.org/en/Objects)?
+
+This "[web-ring](https://www.learnpython.org/)" explains most parts of programming aspects, from variables to object oriented programming, for these languages: 
+
+    Python
+    Java
+    HTML
+    Go
+    C
+    C++
+    JavaScript
+    PHP
+    Shell
+    C#
+    Perl
+    Ruby
+    Scala
+    SQL
 
 ### Programming Languages
 Different programming languages have their pros and cons. Just learn the basics of 3 to 5 different languages will help you to cope better with the syntax and typical flow of programming.
@@ -14,6 +37,7 @@ Different programming languages have their pros and cons. Just learn the basics 
 - [Python Basics](https://realpython.com/python-basics/)
 - [Java Basics](https://www.codecademy.com/learn/learn-java/modules/learn-java-hello-world)
 - [PHP](https://www.tutorialspoint.com/php/php_introduction.htm)
+- [GO](https://golang.org/)
 
 ### Data Storage and Transfer
 Wikipedia on [communication protocols](https://en.wikipedia.org/wiki/Communication_protocol): In telecommunication, a communication protocol is a system of rules that allow two or more entities of a communications system to transmit information via any kind of variation of a physical quantity.
