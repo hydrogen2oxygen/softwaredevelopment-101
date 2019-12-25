@@ -61,7 +61,7 @@ First things first
 - [ConEmu replacing CMD on Windows](https://conemu.github.io/), because Windows CMD shell is the worst on our planet
 - [Git](https://git-scm.com/downloads), because we want to develop for open source
 
-See also [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf).
+See also [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf) and this [great video series](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-).
 
 #### IDEs
 Wikipedia on IDE: An integrated development environment (IDE) is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of at least a source code editor, build automation tools, and a debugger.
