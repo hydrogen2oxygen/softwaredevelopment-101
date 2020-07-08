@@ -17,18 +17,16 @@
 This "[web-ring](https://www.learnpython.org/)" explains most parts of programming aspects, from variables to object oriented programming, for these languages: 
 
     Python
+    PHP
     Java
-    HTML
+    HTML / JavaScript
     Go
     C
     C++
-    JavaScript
-    PHP
     Shell
     C#
     Perl
     Ruby
-    Scala
     SQL
 
 ### Programming Languages
